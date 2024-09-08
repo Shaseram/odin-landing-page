@@ -111,6 +111,15 @@
 
 .boton {
     color: #f9faf8;
+    border: none;
+    border-radius: 8px; 
+    padding: 8px 10px; 
+    color: #f9faf8; 
+    background-color: #3882f6; 
+    width: 125px; 
+    font-weight: 600; 
+    font-size: 15px;
+    text-align: center;
 }
 
 
